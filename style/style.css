@@ -1,0 +1,837 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none;
+}
+
+
+.conteiner {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.conteiner .item {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item2 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item3 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item4 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item5 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+
+}
+.conteiner .item6 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item7{
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item8{
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item9 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item10 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item11 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item12 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item13 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item14 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: yellow;
+    cursor: pointer;
+}
+.conteiner .item15 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item16 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: yellow;
+    cursor: pointer;
+}
+.conteiner .item17 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: yellow;
+    cursor: pointer;
+}
+.conteiner .item18 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item19 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item20 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item21 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item22 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item23 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item24 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item25 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    background-color: yellow;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+.conteiner .item26 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item27 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: yellow;
+    cursor: pointer;
+}
+.conteiner .item28 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item29 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item30 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    cursor: pointer;
+    background-color: yellow;
+}
+.conteiner .item31 {
+    width: 250px;
+    height: 70px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: yellow;
+    cursor: pointer;
+}
+
+.conteiner p {
+    text-align: center;
+    color: blue;
+}
+
+.conteiner .item:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item2:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item3:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item4:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item5:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item6:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item7:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item8:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item9:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item10:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item11:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item12:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item13:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item14:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item15:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item16:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item17:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item18:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item19:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item20:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item21:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item22:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item23:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item24:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item25:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item26:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item27:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item28:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item29:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item30:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+.conteiner .item31:hover {
+    background-color: aqua;
+    transition: .9s all linear;
+}
+
+
+.content {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    background-color: #fff;
+    display: none;
+    animation: fade 2s;
+    border-radius: 20px;
+}
+.content2 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    background-color: #ccc;
+    display: none;
+    animation: fade 2s;
+    border-radius: 20px;
+
+    background-color: #fff;
+}
+.content3 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    background-color: #ccc;
+    display: none;
+    animation: fade 2s;
+    border-radius: 20px;
+
+    background-color: #fff;
+}
+.content4 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    background-color: #ccc;
+    display: none;
+    animation: fade 2s;
+    background-color: #fff;
+
+    border-radius: 20px;
+}
+.content5 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    animation: fade 2s;
+    border-radius: 20px;
+    top: 115px;
+    left: 270px;
+    background-color: #ccc;
+    display: none;
+    background-color: #fff;
+
+}
+.content6 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    background-color: #ccc;
+    animation: fade 2s;
+    border-radius: 20px;
+    display: none;
+    background-color: #fff;
+
+}
+.content7 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    background-color: #ccc;
+    display: none;
+    animation: fade 2s;
+    border-radius: 20px;
+    left: 270px;    background-color: #fff;
+}
+.content8 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    background-color: #ccc;
+    border-radius: 20px;
+    top: 115px;
+    animation: fade 2s;
+
+    left: 270px;
+    display: none;
+    background-color: #fff;
+}
+.content9 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    animation: fade 2s;
+    border-radius: 20px;
+    /* background-color: #ccc; */
+    display: none;
+    background-color: #fff;
+    left: 270px;
+}
+.content10 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    display: none;
+    animation: fade 2s;
+    border-radius: 20px;
+
+    /* background-color: #ccc; */
+    background-color: #fff;
+}
+.content11 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    animation: fade 2s;
+
+    position: absolute;
+    display: none;
+    border-radius: 20px;
+    top: 115px;
+    background-color: #ccc;
+
+    left: 270px;    background-color: #fff;
+}
+.content12 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    animation: fade 2s;
+    border-radius: 20px;
+    background-color: #ccc;
+    display: none;
+
+    position: absolute;
+    top: 115px;    background-color: #fff;
+    left: 270px;
+}
+.content13 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    animation: fade 2s;
+
+    /* background-color: #ccc; */
+    display: none;    background-color: #fff;
+    border-radius: 20px;
+    top: 115px;
+    left: 270px;
+}
+.content14 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    /* background-color: #ccc; */
+    display: none;    background-color: #fff;
+    border-radius: 20px;
+    position: absolute;
+    animation: fade 2s;
+
+    top: 115px;
+    left: 270px;
+}
+.content15 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;    background-color: #fff;
+    left: 270px;
+    display: none;
+    border-radius: 20px;
+    animation: fade 2s;
+
+    /* background-color: #ccc; */
+
+}
+.content16 {
+    width: 1000px;
+    height: 500px;    background-color: #fff;
+    border: 1px solid #000;
+    position: absolute;
+    display: none;
+    border-radius: 20px;
+    top: 115px;
+    animation: fade 2s;
+
+    /* background-color: #ccc; */
+
+    left: 270px;
+}
+.content17 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    animation: fade 2s;    background-color: #fff;
+
+    /* background-color: #ccc; */
+    border-radius: 20px;
+    position: absolute;
+    display: none;
+    
+    top: 115px;
+    left: 270px;
+}
+.content18 {
+    width: 1000px;
+    height: 500px;
+    /* background-color: #ccc;    background-color: #fff; */
+    border-radius: 20px;
+    border: 1px solid #000;
+    animation: fade 2s;
+
+    position: absolute;
+    display: none;
+
+    background-color: #fff;
+    top: 115px;
+    left: 270px;
+}
+.content19 {
+    width: 1000px;
+    height: 500px;    background-color: #fff;
+    border: 1px solid #000;
+    position: absolute;
+    /* background-color: #ccc; */
+    display: none;
+    border-radius: 20px;
+    top: 115px;
+    animation: fade 2s;
+
+    left: 270px;
+}
+.content20 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;    background-color: #fff;
+    position: absolute;
+    top: 115px;
+    display: none;
+    border-radius: 20px;
+    /* background-color: #ccc; */
+    animation: fade 2s;
+
+    left: 270px;
+}
+.content21 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    animation: fade 2s;
+    border-radius: 20px;    background-color: #fff;
+    top: 115px;
+    /* background-color: #ccc; */
+    display: none;
+    
+    left: 270px;
+}
+.content22 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    display: none;
+    animation: fade 2s;
+
+    border-radius: 20px;
+    top: 115px;
+    /* background-color: #ccc; 
+       background-color: #fff; */
+
+       background-color: #fff;
+    left: 270px;
+}
+.content23 {
+    width: 1000px;
+    height: 500px;
+    display: none;
+    border-radius: 20px;
+    border: 1px solid #000;
+    position: absolute;
+    /* background-color: #ccc;    background-color: #fff; */
+    animation: fade 2s;
+    background-color: #fff;
+
+
+    top: 115px;
+    left: 270px;
+}
+.content24 {
+    width: 1000px;
+    height: 500px;
+    animation: fade 2s;
+    background-color: #fff;
+    border: 1px solid #000;
+    position: absolute;
+    /* background-color: #ccc; */
+    border-radius: 20px;
+    top: 115px;
+    display: none;
+
+    left: 270px;
+}
+.content25 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;    background-color: #fff;
+    top: 115px;
+
+    animation: fade 2s;
+    border-radius: 20px;
+
+    left: 270px;
+    display: none;
+
+}
+.content26 {
+    width: 1000px;
+    height: 500px;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    animation: fade 2s;
+    border-radius: 20px;
+    display: none;
+    
+    background-color: #ccc;
+    
+    border: 1px solid #000;    background-color: #fff;
+}
+.content27 {
+    width: 1000px;
+    border: 1px solid #000;
+    animation: fade 2s;
+    border-radius: 20px;
+    position: absolute;
+    display: none;
+
+    top: 115px;
+    left: 270px;
+    background-color: #ccc;
+    
+    height: 500px;    background-color: #fff;
+}
+.content28 {
+    width: 1000px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    display: none;
+    border-radius: 20px;
+    left: 270px;
+    animation: fade 2s;
+
+    background-color: #ccc;
+    height: 500px;    background-color: #fff;
+    
+}
+.content29 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    background-color: #ccc;
+    display: none;
+    animation: fade 2s;
+    border-radius: 20px;
+    left: 270px;    background-color: #fff;
+    
+
+}
+.content30 {
+    width: 1000px;
+    height: 500px;
+    border: 1px solid #000;
+    position: absolute;
+    top: 115px;
+    left: 270px;
+    background-color: #ccc;
+    display: none;    background-color: #fff;
+    animation: fade 2s;
+
+    border-radius: 20px;
+}
+
+i {
+    font-size: 50px;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}
+
+b {
+    font-size: 49px;
+    text-align: center;
+    color: blue;
+}
+.b1 {
+    font-size: 39px;
+    text-align: center;
+    color: blue;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    background-image: cover;
+    object-fit: contain;
+    background-size: 100% 100%;
+}
